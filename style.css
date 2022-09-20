@@ -1,0 +1,64 @@
+* {
+    font-family: RussoOne;
+    src: url(./RussoOne-Regular.ttf);
+    color: #e6d9a6;
+    background-color: black;
+}
+
+@font-face {
+    font-family: RussoOne;
+    src: url(./RussoOne-Regular.ttf);
+}
+
+div {
+    font-family: RussoOne;
+    src: url(./RussoOne-Regular.ttf);
+    align-items: center;
+}
+
+img {
+    width: 37px;
+    height: 37px;
+    align-items: center;
+}
+
+.logo img {
+    width: 150px;
+    height: 150px;
+    align-items: center;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.title {
+    text-align: center;
+    text-shadow: 20px;
+    margin-top: 20px;
+}
+
+.title img {
+    width: 576px;
+    height: 323px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+.footer-text {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+a {
+    color: #8B7000;
+}
