@@ -10,4 +10,4 @@ Showing the prestige of being an #OG has never been easier...💎
 - [🗺 Discord](https://discord.com/invite/AVeft2HDZU) 
 - [🌐 www.dotOG.xyz](https://dotOG.xyz)
 
-Stay tune! 🤫
+Stay tune! 🤫 
